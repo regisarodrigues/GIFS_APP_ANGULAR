@@ -1,5 +1,13 @@
 # GifsApp
 
+## Curso Udemy
+
+Angular: De cero a experto
+
+## INSTRUTOR
+
+Fernando Herrera
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
